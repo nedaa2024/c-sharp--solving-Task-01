@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\C# T01\bin\Debug\net6.0\C# T01.exe
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\C# T01\bin\Debug\net6.0\C# T01.deps.json
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\C# T01\bin\Debug\net6.0\C# T01.runtimeconfig.json
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\C# T01\bin\Debug\net6.0\C# T01.dll
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\C# T01\bin\Debug\net6.0\C# T01.pdb
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\C# T01\obj\Debug\net6.0\C# T01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\C# T01\obj\Debug\net6.0\C# T01.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\C# T01\obj\Debug\net6.0\C# T01.AssemblyInfo.cs
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\C# T01\obj\Debug\net6.0\C# T01.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\C# T01\obj\Debug\net6.0\C# T01.dll
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\C# T01\obj\Debug\net6.0\refint\C# T01.dll
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\C# T01\obj\Debug\net6.0\C# T01.pdb
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\C# T01\obj\Debug\net6.0\C# T01.genruntimeconfig.cache
+C:\Users\HP\Desktop\تحالف الامارات\course three c#\C# T01\obj\Debug\net6.0\ref\C# T01.dll
